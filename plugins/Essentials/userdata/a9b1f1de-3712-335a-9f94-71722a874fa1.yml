@@ -1,0 +1,42 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672971198746
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672974115180
+  login: 1672970048114
+  kits:
+    jo: 1672973226746
+money: '0'
+last-account-name: JoSword
+lastlocation:
+  world: c78ed986-fc11-4662-9489-f050512270fb
+  world-name: world
+  x: 13.750177868987425
+  y: 70.0
+  z: 81.19046446543648
+  yaw: -106.35000610351562
+  pitch: 17.549991607666016
+confirm-clear: true
+nickname: JoSword
+logoutlocation:
+  world: c78ed986-fc11-4662-9489-f050512270fb
+  world-name: world
+  x: -390.30000001192093
+  y: 57.66039506621197
+  z: 99.30000001192093
+  yaw: 26.5357666015625
+  pitch: 37.04996871948242
